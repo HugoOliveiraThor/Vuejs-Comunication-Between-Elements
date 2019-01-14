@@ -4,6 +4,7 @@
         <p>Esse é um componente muito legal!</p>
         <p>Nome é <strong>{{nome}}</strong></p>
         <button @click="alterarNome">Alterar Nome</button>
+        <p>Idade: {{ idade }}</p>
         <hr>
         <div class="componentes">
             <app-usuario-info :nome="nome" @nomeMudou="nome = $event.novo" :reiniciarFn="reiniciarNome" />
