@@ -25,7 +25,7 @@ npm run test
 npm run lint
 ```
 ## Images from code
-<img src"https://github.com/HugoOliveiraThor/Vuejs-Comunication-Between-Elements/blob/master/public/comuniation_between_events.png" alt="drawing" width="200"/>
+![](https://github.com/HugoOliveiraThor/Vuejs-Comunication-Between-Elements/blob/master/public/comuniation_between_events.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
