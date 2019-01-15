@@ -1,5 +1,8 @@
 ## Simple communication direct between two components in VueJS 
 
+![](https://github.com/HugoOliveiraThor/Vuejs-Comunication-Between-Elements/blob/master/public/comuniation_between_events.png)
+
+
 ## Project setup
 ```
 npm install
@@ -25,7 +28,6 @@ npm run test
 npm run lint
 ```
 ## Images from code
-![](https://github.com/HugoOliveiraThor/Vuejs-Comunication-Between-Elements/blob/master/public/comuniation_between_events.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
