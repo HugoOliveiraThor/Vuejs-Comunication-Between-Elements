@@ -1,5 +1,3 @@
-# comunicacao
-
 ## Simple communication direct between two components in VueJS 
 
 ## Project setup
@@ -26,6 +24,8 @@ npm run test
 ```
 npm run lint
 ```
+## Images from code
+<img src"https://github.com/HugoOliveiraThor/Vuejs-Comunication-Between-Elements/blob/master/public/comuniation_between_events.png" alt="drawing" width="200"/>
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
